@@ -1,4 +1,3 @@
-import rlcompleter
-import readline
-x = f.get_line_buffer()
-print(x)
+while True:
+	x = input("Enter something")
+	print(x)
